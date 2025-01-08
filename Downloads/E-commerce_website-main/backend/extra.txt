@@ -1,0 +1,7 @@
+await: function used to save data in db as it'll always take a bit of time to savedata on db.
+to upload data to db:1.create schema, 2.create endpoint
+to remove data: create yet another endpoint
+"Commas are very very very evry important"
+
+the payload to the api are case sensitive, 8th apr while building this project , i have made mistake entering [product] for [Product],
+its the field in the payload. it would give multer error. //its frustrating.

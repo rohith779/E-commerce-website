@@ -1,0 +1,4 @@
+The product.jsx works wherever it is
+it does not matter it is somewhere else it is always alive
+there are some files that have map function, item component that takes you to product.jsx and productdisplay.jsx
+its not really the coding part, its all about building stuff. it is debugging 
